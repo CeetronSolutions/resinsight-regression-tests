@@ -1,4 +1,0 @@
-[submodule "ModelData/webviz-subsurface-testdata"]
-	path = ModelData/webviz-subsurface-testdata
-	url = https://github.com/magnesj/webviz-subsurface-testdata
-	branch = ignore-ri-cache-files
