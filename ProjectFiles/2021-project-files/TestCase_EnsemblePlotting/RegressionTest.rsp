@@ -653,8 +653,8 @@
                             <LegendDeltaFontSize>Large</LegendDeltaFontSize>
                             <RowSpan>ONE</RowSpan>
                             <ColSpan>ONE</ColSpan>
-                            <IsUsingAutoName>True </IsUsingAutoName>
-                            <PlotDescription>base_pred, OP_1, Oil Production Rate</PlotDescription>
+                            <IsUsingAutoName>False </IsUsingAutoName>
+                            <PlotDescription>ensemble single color</PlotDescription>
                             <normalizeCurveYValues>False </normalizeCurveYValues>
                             <SummaryCurveCollection>
                                 <RimSummaryCurveCollection>
@@ -684,7 +684,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -767,7 +767,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -850,7 +850,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -933,7 +933,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -1016,7 +1016,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -1099,7 +1099,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -1182,7 +1182,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -1265,7 +1265,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -1348,7 +1348,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -1431,7 +1431,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -1514,7 +1514,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_TRIANGLE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>150</SymbolSkipPxDist>
                                                             <SymbolLabel>P10</SymbolLabel>
                                                             <SymbolSize>7</SymbolSize>
@@ -1597,7 +1597,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_DOWN_TRIANGLE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>150</SymbolSkipPxDist>
                                                             <SymbolLabel>P90</SymbolLabel>
                                                             <SymbolSize>7</SymbolSize>
@@ -1680,7 +1680,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_ELLIPSE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>150</SymbolSkipPxDist>
                                                             <SymbolLabel>MEAN</SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -1994,8 +1994,8 @@
                             <LegendDeltaFontSize>Large</LegendDeltaFontSize>
                             <RowSpan>ONE</RowSpan>
                             <ColSpan>ONE</ColSpan>
-                            <IsUsingAutoName>True </IsUsingAutoName>
-                            <PlotDescription>base_pred, OP_1, Oil Production Rate</PlotDescription>
+                            <IsUsingAutoName>False </IsUsingAutoName>
+                            <PlotDescription>ensemble summary only</PlotDescription>
                             <normalizeCurveYValues>False </normalizeCurveYValues>
                             <SummaryCurveCollection>
                                 <RimSummaryCurveCollection>
@@ -2025,7 +2025,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_TRIANGLE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>150</SymbolSkipPxDist>
                                                             <SymbolLabel>P10</SymbolLabel>
                                                             <SymbolSize>7</SymbolSize>
@@ -2108,7 +2108,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_DOWN_TRIANGLE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>150</SymbolSkipPxDist>
                                                             <SymbolLabel>P90</SymbolLabel>
                                                             <SymbolSize>7</SymbolSize>
@@ -2191,7 +2191,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_ELLIPSE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>150</SymbolSkipPxDist>
                                                             <SymbolLabel>MEAN</SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -2536,7 +2536,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -2619,7 +2619,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -2702,7 +2702,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -2785,7 +2785,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -2868,7 +2868,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -2951,7 +2951,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -3034,7 +3034,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -3117,7 +3117,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -3200,7 +3200,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -3283,7 +3283,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -3366,7 +3366,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_TRIANGLE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>150</SymbolSkipPxDist>
                                                             <SymbolLabel>P10</SymbolLabel>
                                                             <SymbolSize>7</SymbolSize>
@@ -3449,7 +3449,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_DOWN_TRIANGLE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>150</SymbolSkipPxDist>
                                                             <SymbolLabel>P90</SymbolLabel>
                                                             <SymbolSize>7</SymbolSize>
@@ -3532,7 +3532,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_ELLIPSE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>150</SymbolSkipPxDist>
                                                             <SymbolLabel>MEAN</SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -3737,7 +3737,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -3820,7 +3820,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -3903,7 +3903,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -3986,7 +3986,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -4069,7 +4069,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -4152,7 +4152,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -4235,7 +4235,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -4318,7 +4318,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -4401,7 +4401,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -4484,7 +4484,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -4567,7 +4567,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_TRIANGLE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>150</SymbolSkipPxDist>
                                                             <SymbolLabel>P10</SymbolLabel>
                                                             <SymbolSize>7</SymbolSize>
@@ -4650,7 +4650,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_DOWN_TRIANGLE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>150</SymbolSkipPxDist>
                                                             <SymbolLabel>P90</SymbolLabel>
                                                             <SymbolSize>7</SymbolSize>
@@ -4733,7 +4733,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_ELLIPSE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>150</SymbolSkipPxDist>
                                                             <SymbolLabel>MEAN</SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -4938,7 +4938,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -5021,7 +5021,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -5104,7 +5104,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -5187,7 +5187,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -5270,7 +5270,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -5353,7 +5353,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -5436,7 +5436,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -5519,7 +5519,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -5602,7 +5602,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -5685,7 +5685,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -5768,7 +5768,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_TRIANGLE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>150</SymbolSkipPxDist>
                                                             <SymbolLabel>P10</SymbolLabel>
                                                             <SymbolSize>7</SymbolSize>
@@ -5851,7 +5851,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_DOWN_TRIANGLE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>150</SymbolSkipPxDist>
                                                             <SymbolLabel>P90</SymbolLabel>
                                                             <SymbolSize>7</SymbolSize>
@@ -5934,7 +5934,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_ELLIPSE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>150</SymbolSkipPxDist>
                                                             <SymbolLabel>MEAN</SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -6139,7 +6139,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -6222,7 +6222,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -6305,7 +6305,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -6388,7 +6388,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -6471,7 +6471,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -6554,7 +6554,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -6637,7 +6637,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -6720,7 +6720,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -6803,7 +6803,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -6886,7 +6886,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -6969,7 +6969,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_TRIANGLE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>150</SymbolSkipPxDist>
                                                             <SymbolLabel>P10</SymbolLabel>
                                                             <SymbolSize>7</SymbolSize>
@@ -7052,7 +7052,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_DOWN_TRIANGLE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>150</SymbolSkipPxDist>
                                                             <SymbolLabel>P90</SymbolLabel>
                                                             <SymbolSize>7</SymbolSize>
@@ -7135,7 +7135,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_ELLIPSE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>150</SymbolSkipPxDist>
                                                             <SymbolLabel>MEAN</SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -7450,8 +7450,8 @@
                             <LegendDeltaFontSize>Large</LegendDeltaFontSize>
                             <RowSpan>ONE</RowSpan>
                             <ColSpan>ONE</ColSpan>
-                            <IsUsingAutoName>True </IsUsingAutoName>
-                            <PlotDescription>base_pred, OP_1, Oil Production Rate</PlotDescription>
+                            <IsUsingAutoName>False </IsUsingAutoName>
+                            <PlotDescription>Ensemble no stats</PlotDescription>
                             <normalizeCurveYValues>False </normalizeCurveYValues>
                             <SummaryCurveCollection>
                                 <RimSummaryCurveCollection>
@@ -7481,7 +7481,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -7564,7 +7564,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -7647,7 +7647,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -7730,7 +7730,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -7813,7 +7813,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -7896,7 +7896,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -7979,7 +7979,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -8062,7 +8062,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -8145,7 +8145,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -8228,7 +8228,7 @@
                                                             <LineStyle>STYLE_SOLID</LineStyle>
                                                             <FillStyle>NO_FILL</FillStyle>
                                                             <PointSymbol>SYMBOL_NONE</PointSymbol>
-                                                            <SymbolEdgeColor>0.901960790157318 0.905882358551025 0.917647063732147</SymbolEdgeColor>
+                                                            <SymbolEdgeColor>0.0784313753247261 0.0901960805058479 0.0980392172932625</SymbolEdgeColor>
                                                             <SymbolSkipPxDist>10</SymbolSkipPxDist>
                                                             <SymbolLabel></SymbolLabel>
                                                             <SymbolSize>6</SymbolSize>
@@ -8798,8 +8798,8 @@
     <MultiSnapshotDefinitions/>
     <TreeViewState></TreeViewState>
     <TreeViewCurrentModelIndexPath>0 0</TreeViewCurrentModelIndexPath>
-    <PlotWindowTreeViewState>-1-10000;-1-100;-1-11000;-1-110120;-1-110</PlotWindowTreeViewState>
-    <PlotWindowTreeViewCurrentModelIndexPath>1 0;0 0;3 0;2 0;0 0</PlotWindowTreeViewCurrentModelIndexPath>
+    <PlotWindowTreeViewState>-1-10000;-1-100;-1-110000020;-1-1100000;-1-1100010;-1-1100020;-1-110003020;-1-1100030;-1-11000;-1-110120;-1-110</PlotWindowTreeViewState>
+    <PlotWindowTreeViewCurrentModelIndexPath>1 0;0 0;3 0</PlotWindowTreeViewCurrentModelIndexPath>
     <show3DWindow>False </show3DWindow>
     <showPlotWindow>True </showPlotWindow>
     <tiled3DWindow>False </tiled3DWindow>
