@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResInsightProject>
+    <DocumentFileName>/home/resinsight/projects/resinsight-regression-tests/ProjectFiles/2021-project-files/TestCase_VfpPlot/RegressionTest.rsp</DocumentFileName>
+    <ProjectFileVersionString>2021.10.2-dev.01</ProjectFileVersionString>
+    <ReferencedExternalFiles>
+        $PathId_003$ /home/resinsight/projects/resinsight-regression-tests/ModelData/norne/INCLUDE/VFP/B1BH.Ecl;
+        $PathId_004$ /home/resinsight/projects/resinsight-regression-tests/ModelData/norne/INCLUDE/VFP/B2H.Ecl;
+        $PathId_005$ /home/resinsight/projects/resinsight-regression-tests/ModelData/norne/INCLUDE/VFP/B3H.Ecl;
+        $PathId_006$ /home/resinsight/projects/resinsight-regression-tests/ModelData/norne/INCLUDE/VFP/B4DH.Ecl;
+        $PathId_007$ /home/resinsight/projects/resinsight-regression-tests/ModelData/norne/INCLUDE/VFP/C1H.Ecl;
+        $PathId_008$ /home/resinsight/projects/resinsight-regression-tests/ModelData/norne/INCLUDE/VFP/C2H.Ecl;
+        $PathId_009$ /home/resinsight/projects/resinsight-regression-tests/ModelData/norne/INCLUDE/VFP/C3H.Ecl;
+        $PathId_010$ /home/resinsight/projects/resinsight-regression-tests/ModelData/norne/INCLUDE/VFP/D2H.Ecl;
+        $PathId_011$ /home/resinsight/projects/resinsight-regression-tests/ModelData/norne/INCLUDE/VFP/D3BH.Ecl;
+    </ReferencedExternalFiles>
+    <OilFields>
+        <ResInsightOilField>
+            <AnalysisModels>
+                <ResInsightAnalysisModels>
+                    <Reservoirs/>
+                    <CaseGroups/>
+                </ResInsightAnalysisModels>
+            </AnalysisModels>
+            <GeoMechModels/>
+            <WellPathCollection>
+                <WellPaths>
+                    <Active>True </Active>
+                    <ShowWellPathLabel>True </ShowWellPathLabel>
+                    <WellPathLabelColor>0.919996976852417 0.919996976852417 0.919996976852417</WellPathLabelColor>
+                    <GlobalWellPathVisibility>ALL_ON</GlobalWellPathVisibility>
+                    <WellPathRadiusScale>0.1</WellPathRadiusScale>
+                    <WellPathClip>True </WellPathClip>
+                    <WellPathClipZDistance>100</WellPathClipZDistance>
+                    <WellPaths/>
+                    <WellMeasurements>
+                        <WellMeasurements>
+                            <Measurements/>
+                            <ImportedFiles/>
+                        </WellMeasurements>
+                    </WellMeasurements>
+                </WellPaths>
+            </WellPathCollection>
+            <CompletionTemplateCollection>
+                <CompletionTemplateCollection>
+                    <FractureTemplates>
+                        <FractureTemplateCollection>
+                            <DefaultUnitForTemplates>UNITS_METRIC</DefaultUnitForTemplates>
+                            <FractureDefinitions>
+                                <RimEllipseFractureTemplate>
+                                    <Id>0</Id>
+                                    <UserDescription>Ellipse Fracture Template</UserDescription>
+                                    <UnitSystem>UNITS_METRIC</UnitSystem>
+                                    <Orientation>Transverse</Orientation>
+                                    <AzimuthAngle>0</AzimuthAngle>
+                                    <SkinFactor>0</SkinFactor>
+                                    <PerforationLength>1</PerforationLength>
+                                    <PerforationEfficiency>1</PerforationEfficiency>
+                                    <WellDiameter>0.216</WellDiameter>
+                                    <ConductivityType>FiniteConductivity</ConductivityType>
+                                    <WellPathDepthAtFracture>25</WellPathDepthAtFracture>
+                                    <FractureContainmentField>
+                                        <FractureContainment>
+                                            <IsUsingFractureContainment>False </IsUsingFractureContainment>
+                                            <TopKLayer>0</TopKLayer>
+                                            <BaseKLayer>0</BaseKLayer>
+                                            <TruncateAtFaults>False </TruncateAtFaults>
+                                            <FaultThrowValue>0</FaultThrowValue>
+                                        </FractureContainment>
+                                    </FractureContainmentField>
+                                    <NonDarcyFlowType>None</NonDarcyFlowType>
+                                    <UserDefinedDFactor>1</UserDefinedDFactor>
+                                    <FractureWidthType>FractureWidth</FractureWidthType>
+                                    <FractureWidth>0.01</FractureWidth>
+                                    <BetaFactorType>UserDefinedBetaFactor</BetaFactorType>
+                                    <InertialCoefficient>0.006083236</InertialCoefficient>
+                                    <PermeabilityType>FractureConductivity</PermeabilityType>
+                                    <RelativePermeability>1</RelativePermeability>
+                                    <EffectivePermeability>0</EffectivePermeability>
+                                    <RelativeGasDensity>0.8</RelativeGasDensity>
+                                    <GasViscosity>0.02</GasViscosity>
+                                    <HeightScaleFactor>1</HeightScaleFactor>
+                                    <WidthScaleFactor>1</WidthScaleFactor>
+                                    <DFactorScaleFactor>1</DFactorScaleFactor>
+                                    <ConductivityFactor>1</ConductivityFactor>
+                                    <HalfLength>100</HalfLength>
+                                    <Height>75</Height>
+                                    <Width>0.01</Width>
+                                    <Permeability>100000</Permeability>
+                                </RimEllipseFractureTemplate>
+                            </FractureDefinitions>
+                            <NextValidFractureTemplateId>1</NextValidFractureTemplateId>
+                        </FractureTemplateCollection>
+                    </FractureTemplates>
+                    <StimPlanModelTemplates>
+                        <StimPlanModelTemplateCollection>
+                            <StimPlanModelTemplates/>
+                            <NextValidId>0</NextValidId>
+                        </StimPlanModelTemplateCollection>
+                    </StimPlanModelTemplates>
+                    <ValveTemplates>
+                        <ValveTemplateCollection>
+                            <ValveDefinitions>
+                                <ValveTemplate>
+                                    <Name>AICD: Valve Template #1</Name>
+                                    <UnitSystem>UNITS_UNKNOWN</UnitSystem>
+                                    <CompletionType>AICD</CompletionType>
+                                    <UserLabel>Valve Template #1</UserLabel>
+                                    <OrificeDiameter>8</OrificeDiameter>
+                                    <FlowCoefficient>0.7</FlowCoefficient>
+                                    <AICDParameters>
+                                        <WellPathAicdParameters>
+                                            <DeviceOpen>True </DeviceOpen>
+                                            <StrengthAICD></StrengthAICD>
+                                            <DensityCalibrationFluid></DensityCalibrationFluid>
+                                            <ViscosityCalibrationFluid></ViscosityCalibrationFluid>
+                                            <VolumeFlowRateExponent></VolumeFlowRateExponent>
+                                            <ViscosityFunctionExponent></ViscosityFunctionExponent>
+                                            <CriticalWaterLiquidFractionEmul>1*</CriticalWaterLiquidFractionEmul>
+                                            <ViscosityTransitionRegionEmul>1*</ViscosityTransitionRegionEmul>
+                                            <MaxRatioOfEmulsionVisc>1*</MaxRatioOfEmulsionVisc>
+                                            <MaxFlowRate>1*</MaxFlowRate>
+                                            <ExponentOilDensity>1*</ExponentOilDensity>
+                                            <ExponentWaterDensity>1*</ExponentWaterDensity>
+                                            <ExponentGasDensity>1*</ExponentGasDensity>
+                                            <ExponentOilViscosity>1*</ExponentOilViscosity>
+                                            <ExponentWaterViscosity>1*</ExponentWaterViscosity>
+                                            <ExponentGasViscosity>1*</ExponentGasViscosity>
+                                        </WellPathAicdParameters>
+                                    </AICDParameters>
+                                </ValveTemplate>
+                                <ValveTemplate>
+                                    <Name>ICD: Valve Template #2</Name>
+                                    <UnitSystem>UNITS_UNKNOWN</UnitSystem>
+                                    <CompletionType>ICD</CompletionType>
+                                    <UserLabel>Valve Template #2</UserLabel>
+                                    <OrificeDiameter>8</OrificeDiameter>
+                                    <FlowCoefficient>0.7</FlowCoefficient>
+                                    <AICDParameters>
+                                        <WellPathAicdParameters>
+                                            <DeviceOpen>True </DeviceOpen>
+                                            <StrengthAICD></StrengthAICD>
+                                            <DensityCalibrationFluid></DensityCalibrationFluid>
+                                            <ViscosityCalibrationFluid></ViscosityCalibrationFluid>
+                                            <VolumeFlowRateExponent></VolumeFlowRateExponent>
+                                            <ViscosityFunctionExponent></ViscosityFunctionExponent>
+                                            <CriticalWaterLiquidFractionEmul>1*</CriticalWaterLiquidFractionEmul>
+                                            <ViscosityTransitionRegionEmul>1*</ViscosityTransitionRegionEmul>
+                                            <MaxRatioOfEmulsionVisc>1*</MaxRatioOfEmulsionVisc>
+                                            <MaxFlowRate>1*</MaxFlowRate>
+                                            <ExponentOilDensity>1*</ExponentOilDensity>
+                                            <ExponentWaterDensity>1*</ExponentWaterDensity>
+                                            <ExponentGasDensity>1*</ExponentGasDensity>
+                                            <ExponentOilViscosity>1*</ExponentOilViscosity>
+                                            <ExponentWaterViscosity>1*</ExponentWaterViscosity>
+                                            <ExponentGasViscosity>1*</ExponentGasViscosity>
+                                        </WellPathAicdParameters>
+                                    </AICDParameters>
+                                </ValveTemplate>
+                                <ValveTemplate>
+                                    <Name>ICV: Valve Template #3</Name>
+                                    <UnitSystem>UNITS_UNKNOWN</UnitSystem>
+                                    <CompletionType>ICV</CompletionType>
+                                    <UserLabel>Valve Template #3</UserLabel>
+                                    <OrificeDiameter>8</OrificeDiameter>
+                                    <FlowCoefficient>0.7</FlowCoefficient>
+                                    <AICDParameters>
+                                        <WellPathAicdParameters>
+                                            <DeviceOpen>True </DeviceOpen>
+                                            <StrengthAICD></StrengthAICD>
+                                            <DensityCalibrationFluid></DensityCalibrationFluid>
+                                            <ViscosityCalibrationFluid></ViscosityCalibrationFluid>
+                                            <VolumeFlowRateExponent></VolumeFlowRateExponent>
+                                            <ViscosityFunctionExponent></ViscosityFunctionExponent>
+                                            <CriticalWaterLiquidFractionEmul>1*</CriticalWaterLiquidFractionEmul>
+                                            <ViscosityTransitionRegionEmul>1*</ViscosityTransitionRegionEmul>
+                                            <MaxRatioOfEmulsionVisc>1*</MaxRatioOfEmulsionVisc>
+                                            <MaxFlowRate>1*</MaxFlowRate>
+                                            <ExponentOilDensity>1*</ExponentOilDensity>
+                                            <ExponentWaterDensity>1*</ExponentWaterDensity>
+                                            <ExponentGasDensity>1*</ExponentGasDensity>
+                                            <ExponentOilViscosity>1*</ExponentOilViscosity>
+                                            <ExponentWaterViscosity>1*</ExponentWaterViscosity>
+                                            <ExponentGasViscosity>1*</ExponentGasViscosity>
+                                        </WellPathAicdParameters>
+                                    </AICDParameters>
+                                </ValveTemplate>
+                            </ValveDefinitions>
+                            <ValveUnits>UNITS_METRIC</ValveUnits>
+                        </ValveTemplateCollection>
+                    </ValveTemplates>
+                    <FractureGroupStatisticsCollection>
+                        <FractureGroupStatisticsCollection>
+                            <FractureGroupStatistics/>
+                        </FractureGroupStatisticsCollection>
+                    </FractureGroupStatisticsCollection>
+                </CompletionTemplateCollection>
+            </CompletionTemplateCollection>
+            <SummaryCaseCollection>
+                <SummaryCaseCollection>
+                    <SummaryCases/>
+                    <SummaryCaseCollections/>
+                </SummaryCaseCollection>
+            </SummaryCaseCollection>
+            <FormationNamesCollection>
+                <FormationNamesCollectionObject>
+                    <FormationNamesList/>
+                </FormationNamesCollectionObject>
+            </FormationNamesCollection>
+            <ObservedDataCollection>
+                <ObservedDataCollection>
+                    <ObservedDataArray/>
+                    <ObservedFmuRftDataArray/>
+                </ObservedDataCollection>
+            </ObservedDataCollection>
+            <AnnotationCollection>
+                <RimAnnotationCollection>
+                    <IsActive>True </IsActive>
+                    <TextAnnotations>
+                        <RimAnnotationGroupCollection>
+                            <IsActive>True </IsActive>
+                            <Annotations/>
+                        </RimAnnotationGroupCollection>
+                    </TextAnnotations>
+                    <ReachCircleAnnotations>
+                        <RimAnnotationGroupCollection>
+                            <IsActive>True </IsActive>
+                            <Annotations/>
+                        </RimAnnotationGroupCollection>
+                    </ReachCircleAnnotations>
+                    <UserDefinedPolylineAnnotations>
+                        <RimAnnotationGroupCollection>
+                            <IsActive>True </IsActive>
+                            <Annotations/>
+                        </RimAnnotationGroupCollection>
+                    </UserDefinedPolylineAnnotations>
+                    <PolylineFromFileAnnotations>
+                        <RimAnnotationGroupCollection>
+                            <IsActive>True </IsActive>
+                            <Annotations/>
+                        </RimAnnotationGroupCollection>
+                    </PolylineFromFileAnnotations>
+                </RimAnnotationCollection>
+            </AnnotationCollection>
+            <EnsembleWellLogsCollection>
+                <EnsembleWellLogsCollection>
+                    <EnsembleWellLogsCollection/>
+                </EnsembleWellLogsCollection>
+            </EnsembleWellLogsCollection>
+            <SurfaceCollection>
+                <SurfaceCollection>
+                    <SurfaceUserDecription>Surfaces</SurfaceUserDecription>
+                    <SubCollections/>
+                    <SurfacesField/>
+                </SurfaceCollection>
+            </SurfaceCollection>
+        </ResInsightOilField>
+    </OilFields>
+    <ColorLegendCollection>
+        <ColorLegendCollection>
+            <CustomColorLegends/>
+        </ColorLegendCollection>
+    </ColorLegendCollection>
+    <WellPathImport>
+        <RimWellPathImport>
+            <WellTypeSurvey>True </WellTypeSurvey>
+            <WellTypePlans>True </WellTypePlans>
+            <UtmMode>UTM_FILTER_OFF</UtmMode>
+            <UtmNorth>0</UtmNorth>
+            <UtmSouth>0</UtmSouth>
+            <UtmEast>0</UtmEast>
+            <UtmWest>0</UtmWest>
+            <Regions/>
+        </RimWellPathImport>
+    </WellPathImport>
+    <MainPlotCollection>
+        <MainPlotCollection>
+            <Show>True </Show>
+            <WellLogPlotCollection>
+                <WellLogPlotCollection>
+                    <WellLogPlots/>
+                </WellLogPlotCollection>
+            </WellLogPlotCollection>
+            <RftPlotCollection>
+                <WellRftPlotCollection>
+                    <RftPlots/>
+                </WellRftPlotCollection>
+            </RftPlotCollection>
+            <PltPlotCollection>
+                <WellPltPlotCollection>
+                    <PltPlots/>
+                </WellPltPlotCollection>
+            </PltPlotCollection>
+            <SummaryPlotCollection>
+                <SummaryPlotCollection>
+                    <SummaryPlots/>
+                </SummaryPlotCollection>
+            </SummaryPlotCollection>
+            <AnalysisPlotCollection>
+                <AnalysisPlotCollection>
+                    <AnalysisPlots/>
+                </AnalysisPlotCollection>
+            </AnalysisPlotCollection>
+            <CorrelationPlotCollection>
+                <CorrelationPlotCollection>
+                    <CorrelationPlots/>
+                    <CorrelationReports/>
+                </CorrelationPlotCollection>
+            </CorrelationPlotCollection>
+            <SummaryCrossPlotCollection>
+                <SummaryCrossPlotCollection>
+                    <SummaryCrossPlots/>
+                </SummaryCrossPlotCollection>
+            </SummaryCrossPlotCollection>
+            <FlowPlotCollection>
+                <FlowPlotCollection>
+                    <FlowCharacteristicsPlot/>
+                    <DefaultWellAllocationPlot/>
+                    <WellDistributionPlotCollection/>
+                    <StoredWellAllocationPlots/>
+                    <StoredFlowCharacteristicsPlots/>
+                </FlowPlotCollection>
+            </FlowPlotCollection>
+            <Rim3dCrossPlotCollection>
+                <RimGridCrossPlotCollection>
+                    <GridCrossPlots/>
+                </RimGridCrossPlotCollection>
+            </Rim3dCrossPlotCollection>
+            <RimSaturationPressurePlotCollection>
+                <RimSaturationPressurePlotCollection>
+                    <SaturationPressurePlots/>
+                </RimSaturationPressurePlotCollection>
+            </RimSaturationPressurePlotCollection>
+            <RimMultiPlotCollection>
+                <RimMultiPlotCollection>
+                    <MultiPlots/>
+                    <MultiSummaryPlots/>
+                </RimMultiPlotCollection>
+            </RimMultiPlotCollection>
+            <StimPlanModelPlotCollection>
+                <StimPlanModelPlotCollection>
+                    <StimPlanModelPlots/>
+                </StimPlanModelPlotCollection>
+            </StimPlanModelPlotCollection>
+            <VfpPlotCollection>
+                <RimVfpPlotCollection>
+                    <VfpPlots>
+                        <VfpPlot>
+                            <WindowController>
+                                <MdiWindowController>
+                                    <MainWindowID>1</MainWindowID>
+                                    <xPos>0</xPos>
+                                    <yPos>0</yPos>
+                                    <Width>400</Width>
+                                    <Height>400</Height>
+                                    <IsMaximized>False </IsMaximized>
+                                </MdiWindowController>
+                            </WindowController>
+                            <ShowWindow>True </ShowWindow>
+                            <Id>1</Id>
+                            <ShowPlotTitle>True </ShowPlotTitle>
+                            <ShowTrackLegends>True </ShowTrackLegends>
+                            <TrackLegendsHorizontal>True </TrackLegendsHorizontal>
+                            <TitleFontSize>XX_Large</TitleFontSize>
+                            <LegendDeltaFontSize>Large</LegendDeltaFontSize>
+                            <RowSpan>ONE</RowSpan>
+                            <ColSpan>ONE</ColSpan>
+                            <PlotTitle>VFP: B1BH (Production) #37 - Bottom Hole Pressure x Liquid Flow Rate</PlotTitle>
+                            <FilePath>$PathId_003$</FilePath>
+                            <TableType>PRODUCTION</TableType>
+                            <TableNumber>37</TableNumber>
+                            <ReferenceDepth>2617.02</ReferenceDepth>
+                            <FlowingPhase>LIQUID</FlowingPhase>
+                            <FlowingWaterFraction>WCT</FlowingWaterFraction>
+                            <FlowingGasFraction>GOR</FlowingGasFraction>
+                            <InterpolatedVariable>BHP</InterpolatedVariable>
+                            <PrimaryVariable>LIQUID_FLOW_RATE</PrimaryVariable>
+                            <FamilyVariable>THP</FamilyVariable>
+                            <LiquidFlowRateIdx>0</LiquidFlowRateIdx>
+                            <THPIdx>0</THPIdx>
+                            <ArtificialLiftQuantityIdx>0</ArtificialLiftQuantityIdx>
+                            <WaterCutIdx>0</WaterCutIdx>
+                            <GasLiquidRatioIdx>0</GasLiquidRatioIdx>
+                        </VfpPlot>
+                        <VfpPlot>
+                            <WindowController>
+                                <MdiWindowController>
+                                    <MainWindowID>1</MainWindowID>
+                                    <xPos>0</xPos>
+                                    <yPos>400</yPos>
+                                    <Width>400</Width>
+                                    <Height>400</Height>
+                                    <IsMaximized>False </IsMaximized>
+                                </MdiWindowController>
+                            </WindowController>
+                            <ShowWindow>True </ShowWindow>
+                            <Id>2</Id>
+                            <ShowPlotTitle>True </ShowPlotTitle>
+                            <ShowTrackLegends>True </ShowTrackLegends>
+                            <TrackLegendsHorizontal>True </TrackLegendsHorizontal>
+                            <TitleFontSize>XX_Large</TitleFontSize>
+                            <LegendDeltaFontSize>Large</LegendDeltaFontSize>
+                            <RowSpan>ONE</RowSpan>
+                            <ColSpan>ONE</ColSpan>
+                            <PlotTitle>VFP: B2H (Production) #38 - Bottom Hole Pressure x Liquid Flow Rate</PlotTitle>
+                            <FilePath>$PathId_004$</FilePath>
+                            <TableType>PRODUCTION</TableType>
+                            <TableNumber>38</TableNumber>
+                            <ReferenceDepth>2629.25</ReferenceDepth>
+                            <FlowingPhase>LIQUID</FlowingPhase>
+                            <FlowingWaterFraction>WCT</FlowingWaterFraction>
+                            <FlowingGasFraction>GOR</FlowingGasFraction>
+                            <InterpolatedVariable>BHP</InterpolatedVariable>
+                            <PrimaryVariable>LIQUID_FLOW_RATE</PrimaryVariable>
+                            <FamilyVariable>GAS_LIQUID_RATIO</FamilyVariable>
+                            <LiquidFlowRateIdx>0</LiquidFlowRateIdx>
+                            <THPIdx>0</THPIdx>
+                            <ArtificialLiftQuantityIdx>0</ArtificialLiftQuantityIdx>
+                            <WaterCutIdx>0</WaterCutIdx>
+                            <GasLiquidRatioIdx>0</GasLiquidRatioIdx>
+                        </VfpPlot>
+                        <VfpPlot>
+                            <WindowController>
+                                <MdiWindowController>
+                                    <MainWindowID>1</MainWindowID>
+                                    <xPos>255</xPos>
+                                    <yPos>533</yPos>
+                                    <Width>400</Width>
+                                    <Height>400</Height>
+                                    <IsMaximized>False </IsMaximized>
+                                </MdiWindowController>
+                            </WindowController>
+                            <ShowWindow>True </ShowWindow>
+                            <Id>3</Id>
+                            <ShowPlotTitle>True </ShowPlotTitle>
+                            <ShowTrackLegends>True </ShowTrackLegends>
+                            <TrackLegendsHorizontal>True </TrackLegendsHorizontal>
+                            <TitleFontSize>XX_Large</TitleFontSize>
+                            <LegendDeltaFontSize>Large</LegendDeltaFontSize>
+                            <RowSpan>ONE</RowSpan>
+                            <ColSpan>ONE</ColSpan>
+                            <PlotTitle>VFP: B3H (Production) #39 - BHP-THP x Liquid Flow Rate</PlotTitle>
+                            <FilePath>$PathId_005$</FilePath>
+                            <TableType>PRODUCTION</TableType>
+                            <TableNumber>39</TableNumber>
+                            <ReferenceDepth>2603.13</ReferenceDepth>
+                            <FlowingPhase>LIQUID</FlowingPhase>
+                            <FlowingWaterFraction>WCT</FlowingWaterFraction>
+                            <FlowingGasFraction>GOR</FlowingGasFraction>
+                            <InterpolatedVariable>BHP_THP_DIFF</InterpolatedVariable>
+                            <PrimaryVariable>LIQUID_FLOW_RATE</PrimaryVariable>
+                            <FamilyVariable>THP</FamilyVariable>
+                            <LiquidFlowRateIdx>0</LiquidFlowRateIdx>
+                            <THPIdx>0</THPIdx>
+                            <ArtificialLiftQuantityIdx>0</ArtificialLiftQuantityIdx>
+                            <WaterCutIdx>5</WaterCutIdx>
+                            <GasLiquidRatioIdx>5</GasLiquidRatioIdx>
+                        </VfpPlot>
+                        <VfpPlot>
+                            <WindowController>
+                                <MdiWindowController>
+                                    <MainWindowID>1</MainWindowID>
+                                    <xPos>255</xPos>
+                                    <yPos>0</yPos>
+                                    <Width>400</Width>
+                                    <Height>400</Height>
+                                    <IsMaximized>False </IsMaximized>
+                                </MdiWindowController>
+                            </WindowController>
+                            <ShowWindow>True </ShowWindow>
+                            <Id>4</Id>
+                            <ShowPlotTitle>True </ShowPlotTitle>
+                            <ShowTrackLegends>True </ShowTrackLegends>
+                            <TrackLegendsHorizontal>True </TrackLegendsHorizontal>
+                            <TitleFontSize>XX_Large</TitleFontSize>
+                            <LegendDeltaFontSize>Large</LegendDeltaFontSize>
+                            <RowSpan>ONE</RowSpan>
+                            <ColSpan>ONE</ColSpan>
+                            <PlotTitle>VFP: B4DH (Production) #40 - Bottom Hole Pressure x Liquid Flow Rate</PlotTitle>
+                            <FilePath>$PathId_006$</FilePath>
+                            <TableType>PRODUCTION</TableType>
+                            <TableNumber>40</TableNumber>
+                            <ReferenceDepth>2613.48</ReferenceDepth>
+                            <FlowingPhase>LIQUID</FlowingPhase>
+                            <FlowingWaterFraction>WCT</FlowingWaterFraction>
+                            <FlowingGasFraction>GOR</FlowingGasFraction>
+                            <InterpolatedVariable>BHP</InterpolatedVariable>
+                            <PrimaryVariable>LIQUID_FLOW_RATE</PrimaryVariable>
+                            <FamilyVariable>THP</FamilyVariable>
+                            <LiquidFlowRateIdx>0</LiquidFlowRateIdx>
+                            <THPIdx>0</THPIdx>
+                            <ArtificialLiftQuantityIdx>0</ArtificialLiftQuantityIdx>
+                            <WaterCutIdx>0</WaterCutIdx>
+                            <GasLiquidRatioIdx>0</GasLiquidRatioIdx>
+                        </VfpPlot>
+                        <VfpPlot>
+                            <WindowController>
+                                <MdiWindowController>
+                                    <MainWindowID>1</MainWindowID>
+                                    <xPos>255</xPos>
+                                    <yPos>400</yPos>
+                                    <Width>400</Width>
+                                    <Height>400</Height>
+                                    <IsMaximized>False </IsMaximized>
+                                </MdiWindowController>
+                            </WindowController>
+                            <ShowWindow>True </ShowWindow>
+                            <Id>5</Id>
+                            <ShowPlotTitle>True </ShowPlotTitle>
+                            <ShowTrackLegends>True </ShowTrackLegends>
+                            <TrackLegendsHorizontal>True </TrackLegendsHorizontal>
+                            <TitleFontSize>XX_Large</TitleFontSize>
+                            <LegendDeltaFontSize>Large</LegendDeltaFontSize>
+                            <RowSpan>ONE</RowSpan>
+                            <ColSpan>ONE</ColSpan>
+                            <PlotTitle>VFP: C1H (Injection) #12 - Bottom Hole Pressure x Liquid Flow Rate</PlotTitle>
+                            <FilePath>$PathId_007$</FilePath>
+                            <TableType>INJECTION</TableType>
+                            <TableNumber>12</TableNumber>
+                            <ReferenceDepth>2718.07</ReferenceDepth>
+                            <FlowingPhase>WATER</FlowingPhase>
+                            <FlowingWaterFraction>INVALID</FlowingWaterFraction>
+                            <FlowingGasFraction>INVALID</FlowingGasFraction>
+                            <InterpolatedVariable>BHP</InterpolatedVariable>
+                            <PrimaryVariable>LIQUID_FLOW_RATE</PrimaryVariable>
+                            <FamilyVariable>THP</FamilyVariable>
+                            <LiquidFlowRateIdx>0</LiquidFlowRateIdx>
+                            <THPIdx>0</THPIdx>
+                            <ArtificialLiftQuantityIdx>0</ArtificialLiftQuantityIdx>
+                            <WaterCutIdx>0</WaterCutIdx>
+                            <GasLiquidRatioIdx>0</GasLiquidRatioIdx>
+                        </VfpPlot>
+                        <VfpPlot>
+                            <WindowController>
+                                <MdiWindowController>
+                                    <MainWindowID>1</MainWindowID>
+                                    <xPos>255</xPos>
+                                    <yPos>0</yPos>
+                                    <Width>400</Width>
+                                    <Height>400</Height>
+                                    <IsMaximized>False </IsMaximized>
+                                </MdiWindowController>
+                            </WindowController>
+                            <ShowWindow>True </ShowWindow>
+                            <Id>6</Id>
+                            <ShowPlotTitle>True </ShowPlotTitle>
+                            <ShowTrackLegends>True </ShowTrackLegends>
+                            <TrackLegendsHorizontal>True </TrackLegendsHorizontal>
+                            <TitleFontSize>XX_Large</TitleFontSize>
+                            <LegendDeltaFontSize>Large</LegendDeltaFontSize>
+                            <RowSpan>ONE</RowSpan>
+                            <ColSpan>ONE</ColSpan>
+                            <PlotTitle>VFP: C2H (Injection) #13 - BHP-THP x Liquid Flow Rate</PlotTitle>
+                            <FilePath>$PathId_008$</FilePath>
+                            <TableType>INJECTION</TableType>
+                            <TableNumber>13</TableNumber>
+                            <ReferenceDepth>2672.2</ReferenceDepth>
+                            <FlowingPhase>WATER</FlowingPhase>
+                            <FlowingWaterFraction>INVALID</FlowingWaterFraction>
+                            <FlowingGasFraction>INVALID</FlowingGasFraction>
+                            <InterpolatedVariable>BHP_THP_DIFF</InterpolatedVariable>
+                            <PrimaryVariable>LIQUID_FLOW_RATE</PrimaryVariable>
+                            <FamilyVariable>THP</FamilyVariable>
+                            <LiquidFlowRateIdx>0</LiquidFlowRateIdx>
+                            <THPIdx>0</THPIdx>
+                            <ArtificialLiftQuantityIdx>0</ArtificialLiftQuantityIdx>
+                            <WaterCutIdx>0</WaterCutIdx>
+                            <GasLiquidRatioIdx>0</GasLiquidRatioIdx>
+                        </VfpPlot>
+                        <VfpPlot>
+                            <WindowController>
+                                <MdiWindowController>
+                                    <MainWindowID>1</MainWindowID>
+                                    <xPos>255</xPos>
+                                    <yPos>533</yPos>
+                                    <Width>400</Width>
+                                    <Height>400</Height>
+                                    <IsMaximized>False </IsMaximized>
+                                </MdiWindowController>
+                            </WindowController>
+                            <ShowWindow>True </ShowWindow>
+                            <Id>7</Id>
+                            <ShowPlotTitle>True </ShowPlotTitle>
+                            <ShowTrackLegends>True </ShowTrackLegends>
+                            <TrackLegendsHorizontal>True </TrackLegendsHorizontal>
+                            <TitleFontSize>XX_Large</TitleFontSize>
+                            <LegendDeltaFontSize>Large</LegendDeltaFontSize>
+                            <RowSpan>ONE</RowSpan>
+                            <ColSpan>ONE</ColSpan>
+                            <PlotTitle>VFP: C3H (Injection) #14 - Bottom Hole Pressure x Liquid Flow Rate</PlotTitle>
+                            <FilePath>$PathId_009$</FilePath>
+                            <TableType>INJECTION</TableType>
+                            <TableNumber>14</TableNumber>
+                            <ReferenceDepth>2704.29</ReferenceDepth>
+                            <FlowingPhase>WATER</FlowingPhase>
+                            <FlowingWaterFraction>INVALID</FlowingWaterFraction>
+                            <FlowingGasFraction>INVALID</FlowingGasFraction>
+                            <InterpolatedVariable>BHP</InterpolatedVariable>
+                            <PrimaryVariable>LIQUID_FLOW_RATE</PrimaryVariable>
+                            <FamilyVariable>THP</FamilyVariable>
+                            <LiquidFlowRateIdx>0</LiquidFlowRateIdx>
+                            <THPIdx>0</THPIdx>
+                            <ArtificialLiftQuantityIdx>0</ArtificialLiftQuantityIdx>
+                            <WaterCutIdx>0</WaterCutIdx>
+                            <GasLiquidRatioIdx>0</GasLiquidRatioIdx>
+                        </VfpPlot>
+                        <VfpPlot>
+                            <WindowController>
+                                <MdiWindowController>
+                                    <MainWindowID>1</MainWindowID>
+                                    <xPos>255</xPos>
+                                    <yPos>533</yPos>
+                                    <Width>400</Width>
+                                    <Height>400</Height>
+                                    <IsMaximized>False </IsMaximized>
+                                </MdiWindowController>
+                            </WindowController>
+                            <ShowWindow>True </ShowWindow>
+                            <Id>11</Id>
+                            <ShowPlotTitle>True </ShowPlotTitle>
+                            <ShowTrackLegends>True </ShowTrackLegends>
+                            <TrackLegendsHorizontal>True </TrackLegendsHorizontal>
+                            <TitleFontSize>XX_Large</TitleFontSize>
+                            <LegendDeltaFontSize>Large</LegendDeltaFontSize>
+                            <RowSpan>ONE</RowSpan>
+                            <ColSpan>ONE</ColSpan>
+                            <PlotTitle>VFP: D2H (Production) #42 - Bottom Hole Pressure x Liquid Flow Rate</PlotTitle>
+                            <FilePath>$PathId_010$</FilePath>
+                            <TableType>PRODUCTION</TableType>
+                            <TableNumber>42</TableNumber>
+                            <ReferenceDepth>2598.39</ReferenceDepth>
+                            <FlowingPhase>LIQUID</FlowingPhase>
+                            <FlowingWaterFraction>WCT</FlowingWaterFraction>
+                            <FlowingGasFraction>GOR</FlowingGasFraction>
+                            <InterpolatedVariable>BHP</InterpolatedVariable>
+                            <PrimaryVariable>LIQUID_FLOW_RATE</PrimaryVariable>
+                            <FamilyVariable>THP</FamilyVariable>
+                            <LiquidFlowRateIdx>0</LiquidFlowRateIdx>
+                            <THPIdx>0</THPIdx>
+                            <ArtificialLiftQuantityIdx>0</ArtificialLiftQuantityIdx>
+                            <WaterCutIdx>0</WaterCutIdx>
+                            <GasLiquidRatioIdx>0</GasLiquidRatioIdx>
+                        </VfpPlot>
+                        <VfpPlot>
+                            <WindowController>
+                                <MdiWindowController>
+                                    <MainWindowID>1</MainWindowID>
+                                    <xPos>255</xPos>
+                                    <yPos>0</yPos>
+                                    <Width>400</Width>
+                                    <Height>400</Height>
+                                    <IsMaximized>True </IsMaximized>
+                                </MdiWindowController>
+                            </WindowController>
+                            <ShowWindow>True </ShowWindow>
+                            <Id>12</Id>
+                            <ShowPlotTitle>True </ShowPlotTitle>
+                            <ShowTrackLegends>True </ShowTrackLegends>
+                            <TrackLegendsHorizontal>True </TrackLegendsHorizontal>
+                            <TitleFontSize>XX_Large</TitleFontSize>
+                            <LegendDeltaFontSize>Large</LegendDeltaFontSize>
+                            <RowSpan>ONE</RowSpan>
+                            <ColSpan>ONE</ColSpan>
+                            <PlotTitle>VFP: D3BH (Production) #43 - Bottom Hole Pressure x Water Cut</PlotTitle>
+                            <FilePath>$PathId_011$</FilePath>
+                            <TableType>PRODUCTION</TableType>
+                            <TableNumber>43</TableNumber>
+                            <ReferenceDepth>2583.24</ReferenceDepth>
+                            <FlowingPhase>LIQUID</FlowingPhase>
+                            <FlowingWaterFraction>WCT</FlowingWaterFraction>
+                            <FlowingGasFraction>GOR</FlowingGasFraction>
+                            <InterpolatedVariable>BHP</InterpolatedVariable>
+                            <PrimaryVariable>WATER_CUT</PrimaryVariable>
+                            <FamilyVariable>GAS_LIQUID_RATIO</FamilyVariable>
+                            <LiquidFlowRateIdx>0</LiquidFlowRateIdx>
+                            <THPIdx>0</THPIdx>
+                            <ArtificialLiftQuantityIdx>0</ArtificialLiftQuantityIdx>
+                            <WaterCutIdx>0</WaterCutIdx>
+                            <GasLiquidRatioIdx>0</GasLiquidRatioIdx>
+                        </VfpPlot>
+                    </VfpPlots>
+                </RimVfpPlotCollection>
+            </VfpPlotCollection>
+            <GridStatisticsPlotCollection>
+                <GridStatisticsPlotCollection>
+                    <GridStatisticsPlots/>
+                </GridStatisticsPlotCollection>
+            </GridStatisticsPlotCollection>
+            <EnsembleFractureStatisticsPlotCollection>
+                <EnsembleFractureStatisticsPlotCollection>
+                    <EnsembleFractureStatisticsPlots/>
+                </EnsembleFractureStatisticsPlotCollection>
+            </EnsembleFractureStatisticsPlotCollection>
+        </MainPlotCollection>
+    </MainPlotCollection>
+    <LinkedViews>
+        <RimViewLinkerCollection>
+            <Active>True </Active>
+            <ViewLinkers/>
+        </RimViewLinkerCollection>
+    </LinkedViews>
+    <CalculationCollection>
+        <RimSummaryCalculationCollection>
+            <Calculations/>
+        </RimSummaryCalculationCollection>
+    </CalculationCollection>
+    <CommandObjects/>
+    <MultiSnapshotDefinitions/>
+    <TreeViewState></TreeViewState>
+    <TreeViewCurrentModelIndexPath>0 0</TreeViewCurrentModelIndexPath>
+    <PlotWindowTreeViewState>-1-10000;-1-100;-1-11000;-1-110120;-1-110130;-1-110</PlotWindowTreeViewState>
+    <PlotWindowTreeViewCurrentModelIndexPath>1 0;12 0;8 0</PlotWindowTreeViewCurrentModelIndexPath>
+    <show3DWindow>True </show3DWindow>
+    <showPlotWindow>True </showPlotWindow>
+    <tiled3DWindow>False </tiled3DWindow>
+    <tiledPlotWindow>False </tiledPlotWindow>
+    <DialogData>
+        <RimDialogData>
+            <ExportCarfin>
+                <RicExportCarfinUi>
+                    <CellRange>
+                        <RicCellRangeUi>
+                            <Case></Case>
+                            <GridIndex>0</GridIndex>
+                            <StartIndexI>1</StartIndexI>
+                            <StartIndexJ>1</StartIndexJ>
+                            <StartIndexK>1</StartIndexK>
+                            <CellCountI>1</CellCountI>
+                            <CellCountJ>1</CellCountJ>
+                            <CellCountK>1</CellCountK>
+                        </RicCellRangeUi>
+                    </CellRange>
+                    <ExportFileName></ExportFileName>
+                    <CaseToApply></CaseToApply>
+                    <CellCountI>2</CellCountI>
+                    <CellCountJ>2</CellCountJ>
+                    <CellCountK>2</CellCountK>
+                    <MaxWellCount>8</MaxWellCount>
+                </RicExportCarfinUi>
+            </ExportCarfin>
+            <ExportCompletionData>
+                <RicExportCompletionDataSettingsUi>
+                    <Folder></Folder>
+                    <CaseToApply></CaseToApply>
+                    <FileSplit>SPLIT_ON_WELL_AND_COMPLETION_TYPE</FileSplit>
+                    <compdatExport>TRANSMISSIBILITIES</compdatExport>
+                    <TimeStepIndex>0</TimeStepIndex>
+                    <IncludeMSW>True </IncludeMSW>
+                    <UseLateralNTG>False </UseLateralNTG>
+                    <IncludePerforations>True </IncludePerforations>
+                    <IncludeFishbones>True </IncludeFishbones>
+                    <IncludeFractures>True </IncludeFractures>
+                    <TransScalingType>False </TransScalingType>
+                    <TransScalingTimeStep>0</TransScalingTimeStep>
+                    <TransScalingWBHPSource>WBHP_SUMMARY</TransScalingWBHPSource>
+                    <TransScalingWBHP>200</TransScalingWBHP>
+                    <ExcludeMainBoreForFishbones>False </ExcludeMainBoreForFishbones>
+                    <ReportCompletionTypesSeparately>INDIVIDUALLY</ReportCompletionTypesSeparately>
+                    <ExportDataSourceAsComment>True </ExportDataSourceAsComment>
+                    <ExportWelspec>True </ExportWelspec>
+                    <CompletionWelspecAfterMainBore>True </CompletionWelspecAfterMainBore>
+                    <UseCustomFileName>False </UseCustomFileName>
+                    <CustomFileName></CustomFileName>
+                </RicExportCompletionDataSettingsUi>
+            </ExportCompletionData>
+            <MultipleFractionsData>
+                <RiuCreateMultipleFractionsUi>
+                    <SourceCase></SourceCase>
+                    <MinDistanceFromWellTd>10</MinDistanceFromWellTd>
+                    <MaxFracturesPerWell>10</MaxFracturesPerWell>
+                    <Options/>
+                    <FractureCreationSummary>-- Selected Wells
+   
+</FractureCreationSummary>
+                </RiuCreateMultipleFractionsUi>
+            </MultipleFractionsData>
+            <HoloLenseExportToFolderData>
+                <RicHoloLensExportToFolderUi>
+                    <ViewForExport></ViewForExport>
+                    <ExportFolder></ExportFolder>
+                </RicHoloLensExportToFolderUi>
+            </HoloLenseExportToFolderData>
+            <ExportwellPathsData>
+                <RicExportWellPathsUi>
+                    <ExportFolder></ExportFolder>
+                    <MdStepSize>5</MdStepSize>
+                </RicExportWellPathsUi>
+            </ExportwellPathsData>
+            <ExportLgr>
+                <RicExportLgrUi>
+                    <ExportFolder></ExportFolder>
+                    <CaseToApply></CaseToApply>
+                    <TimeStepIndex>0</TimeStepIndex>
+                    <IncludePerforations>True </IncludePerforations>
+                    <IncludeFractures>True </IncludeFractures>
+                    <IncludeFishbones>True </IncludeFishbones>
+                    <CellCountI>2</CellCountI>
+                    <CellCountJ>2</CellCountJ>
+                    <CellCountK>2</CellCountK>
+                    <SplitType>LGR_PER_COMPLETION</SplitType>
+                </RicExportLgrUi>
+            </ExportLgr>
+            <ExportSectorModel>
+                <RicExportEclipseInputGridUi>
+                    <ExportGrid>True </ExportGrid>
+                    <ExportGridFilename>/home/resinsight/projects/ResInsight/build/GRID.GRDECL</ExportGridFilename>
+                    <ExportInLocalCoords>False </ExportInLocalCoords>
+                    <InvisibleCellActnum>False </InvisibleCellActnum>
+                    <GridBoxSelection>VISIBLE_CELLS</GridBoxSelection>
+                    <MinI>2147483647</MinI>
+                    <MinJ>2147483647</MinJ>
+                    <MinK>2147483647</MinK>
+                    <MaxI>-2147483647</MaxI>
+                    <MaxJ>-2147483647</MaxJ>
+                    <MaxK>-2147483647</MaxK>
+                    <ExportFaults>TO_SINGLE_RESULT_FILE</ExportFaults>
+                    <ExportFaultsFilename>/home/resinsight/projects/ResInsight/build/FAULTS.GRDECL</ExportFaultsFilename>
+                    <RefinementCountI>1</RefinementCountI>
+                    <RefinementCountJ>1</RefinementCountJ>
+                    <RefinementCountK>1</RefinementCountK>
+                    <ExportParams>TO_SEPARATE_RESULT_FILES</ExportParams>
+                    <ExportParamsFilename>/home/resinsight/projects/ResInsight/build/RESULTS.GRDECL</ExportParamsFilename>
+                    <ExportMainKeywords></ExportMainKeywords>
+                </RicExportEclipseInputGridUi>
+            </ExportSectorModel>
+            <MockModelSettings>
+                <MockModelSettings>
+                    <CellCountX>100</CellCountX>
+                    <CellCountY>100</CellCountY>
+                    <CellCountZ>10</CellCountZ>
+                    <TotalCellCount>140563542179864</TotalCellCount>
+                    <ResultCount>3</ResultCount>
+                    <TimeStepCount>10</TimeStepCount>
+                </MockModelSettings>
+            </MockModelSettings>
+            <CreateEnsembleSurfaceUi>
+                <RicCreateEnsembleSurfaceUi>
+                    <Layers></Layers>
+                    <AutoCreateEnsembleSurfaces>False </AutoCreateEnsembleSurfaces>
+                    <MinLayer>1081618080</MinLayer>
+                    <MaxLayer>0</MaxLayer>
+                </RicCreateEnsembleSurfaceUi>
+            </CreateEnsembleSurfaceUi>
+            <CreateEnsembleWellLogUi>
+                <RicCreateEnsembleWellLogUi>
+                    <AutoCreateEnsembleWellLogs>True </AutoCreateEnsembleWellLogs>
+                    <TimeStep>0</TimeStep>
+                    <WellPathSource>FILE</WellPathSource>
+                    <WellPath></WellPath>
+                    <WellFilePath></WellFilePath>
+                    <SelectedProperties></SelectedProperties>
+                </RicCreateEnsembleWellLogUi>
+            </CreateEnsembleWellLogUi>
+        </RimDialogData>
+    </DialogData>
+</ResInsightProject>
